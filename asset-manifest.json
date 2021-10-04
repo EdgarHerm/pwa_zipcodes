@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pwa_zipcodes/static/css/main.d2c1d8ac.chunk.css",
-    "main.js": "/pwa_zipcodes/static/js/main.b6cb774f.chunk.js",
-    "main.js.map": "/pwa_zipcodes/static/js/main.b6cb774f.chunk.js.map",
+    "main.js": "/pwa_zipcodes/static/js/main.d97d510b.chunk.js",
+    "main.js.map": "/pwa_zipcodes/static/js/main.d97d510b.chunk.js.map",
     "runtime-main.js": "/pwa_zipcodes/static/js/runtime-main.1dd64df4.js",
     "runtime-main.js.map": "/pwa_zipcodes/static/js/runtime-main.1dd64df4.js.map",
     "static/js/2.75772966.chunk.js": "/pwa_zipcodes/static/js/2.75772966.chunk.js",
@@ -10,6 +10,8 @@
     "static/js/3.66e7260e.chunk.js": "/pwa_zipcodes/static/js/3.66e7260e.chunk.js",
     "static/js/3.66e7260e.chunk.js.map": "/pwa_zipcodes/static/js/3.66e7260e.chunk.js.map",
     "index.html": "/pwa_zipcodes/index.html",
+    "service-worker.js": "/pwa_zipcodes/service-worker.js",
+    "service-worker.js.map": "/pwa_zipcodes/service-worker.js.map",
     "static/css/main.d2c1d8ac.chunk.css.map": "/pwa_zipcodes/static/css/main.d2c1d8ac.chunk.css.map",
     "static/js/2.75772966.chunk.js.LICENSE.txt": "/pwa_zipcodes/static/js/2.75772966.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/pwa_zipcodes/static/media/logo.6ce24c58.svg"
@@ -18,6 +20,6 @@
     "static/js/runtime-main.1dd64df4.js",
     "static/js/2.75772966.chunk.js",
     "static/css/main.d2c1d8ac.chunk.css",
-    "static/js/main.b6cb774f.chunk.js"
+    "static/js/main.d97d510b.chunk.js"
   ]
 }
